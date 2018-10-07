@@ -1,0 +1,12 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=64699:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/ll/Random Project/out/production/Random Project" Main
+Strength:15
+Agility:13
+Intelligence:12
+Original magic missile's value:60
+The final damage is 359.70460235959024
+The intelligence is 17
+The final damage for the first scenario is 1020.0
+The Base number of the magic missile is 9
+The Base magic missile attack is 90
+The final damage for the second Scenario is 2250.0
+Process finished with exit code 0
