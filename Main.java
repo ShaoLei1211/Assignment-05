@@ -5,13 +5,13 @@ public class Main {
     public static void main(String[] args) {
 
         Random rand = new Random();
-        int Strength = rand.nextInt(5)+10;
+        int Strength = rand.nextInt(10)+10;
         System.out.print("Strength:"+Strength+"\n");
 
-        int Agility = rand.nextInt(5)+10;
+        int Agility = rand.nextInt(10)+10;
         System.out.print("Agility:"+Agility+ "\n");
 
-        int Intelligence = rand.nextInt(10)+20;
+        int Intelligence = rand.nextInt(10)+10;
         System.out.print("Intelligence:"+Intelligence+"\n");
 
         int Magic_missile = 5*Intelligence;
