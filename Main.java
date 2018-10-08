@@ -43,12 +43,12 @@ public class Main {
         System.out.print("The final damage for the first scenario is " + final_damage_1+"\n");
 // Scenario 2
         int Intelligence_2 = 10;
-        int Base_Number = (rand.nextInt(10)+1);
+        int Base_Number = (rand.nextInt(25)+1);
         System.out.print("The Base number of the magic missile is " + Base_Number+"\n");
         int Base_Magic_missile = Intelligence_2*Base_Number;
         System.out.print("The Base magic missile attack is " + Base_Magic_missile+"\n");
     // Set the modifier to 0.5 and times 10 times to get the worst condition to get the minimum number required
-        double Final_Damage_2= 0.5*Base_Magic_missile*10*5;
+        double Final_Damage_2= 0.5*Base_Magic_missile*10;
         System.out.print("The final damage for the second Scenario is " + Final_Damage_2);
 
 
